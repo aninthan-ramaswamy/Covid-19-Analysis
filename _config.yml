@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+title: Covid-19 Time Series Analysis
+description: "Time series analysis of Covid-19 data for India | R-Shiny Dashboard to scale across countries"
